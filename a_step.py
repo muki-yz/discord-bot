@@ -55,5 +55,5 @@ async def gbhaber(ctx):
     
     await ctx.send(f"Here your news!\n\n**{baslik}** \nÖZET:\n```{ozet}```\nFoto Linki: {foto} \nHaber:{link}")
 
-client.run('NzY2MzA4NzAzMDA3Mjc3MDY3.X4hemA.EXKTiig6uz-WUIkYCrI47jSY1fo')
+client.run('**********')
 

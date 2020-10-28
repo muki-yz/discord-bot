@@ -4,10 +4,10 @@ Kişisel amaçlarım ve eğlence için oluşturduğum discord botu.
 ### Komutlar:
 ###### Vfor    
 ###### avatar  
-######  gbhaber 
+###### gbhaber 
 ###### quote   
 ###### temizle 
-
+###### help
 #### Kütüphaneler:
 Discord, Request, Random, Beautifulsoup
 ###### 28 Ekim:

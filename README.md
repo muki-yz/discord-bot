@@ -2,11 +2,11 @@
 # V Fror Muki
 Kişisel amaçlarım ve eğlence için oluşturduğum discord botu.
 ### Komutlar:
-  ####### Vfor    
-  ####### avatar  
-  #######  gbhaber 
-  ####### quote   
-  ####### temizle 
+####### Vfor    
+####### avatar  
+#######  gbhaber 
+####### quote   
+####### temizle 
 
 #### Kütüphaneler:
 Discord, Request, Random, Beautifulsoup

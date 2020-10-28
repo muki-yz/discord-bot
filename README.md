@@ -3,9 +3,9 @@
 Kişisel amaçlarım ve eğlence için oluşturduğum discord botu.
 #### Kütüphaneler:
 Discord, Request, Random, Beautifulsoup
-### 28 Ekim:
+###### 28# Ekim:
 İlerleme katedildi. Etiketlenen kullanıcının avatarını gösterme, gelecekbilimde.net adresinden haber çekme, random anime sözü atma, ufak tefek selamlaşmalar :D
-### 15 Ekim:
+###### 15 Ekim:
 İlk defa bugün kendisi bilincini kazandı ve servera bir kaç mesaj attı.
 Şuan sadece 1 işlevi var ama ilerleme gösterecek :)
 Kütüphaneler:

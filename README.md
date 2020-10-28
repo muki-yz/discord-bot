@@ -1,4 +1,5 @@
-# discord-bot
+## Python Discord Botu
+#V Fror Muki
 15 Ekim:
 İlk defa bugün kendisi bilincini kazandı ve servera bir kaç mesaj attı.
 Şuan sadece 1 işlevi var ama ilerleme gösterecek :)

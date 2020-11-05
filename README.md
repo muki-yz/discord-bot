@@ -9,7 +9,7 @@ Kişisel amaçlarım ve eğlence için oluşturduğum discord botu.
 ###### temizle 
 ###### help
 #### Kütüphaneler:
-Discord, Request, Random, Beautifulsoup
+Discord, Request, Random, Beautifulsoup,Praw
 ###### 28 Ekim:
 İlerleme katedildi. Etiketlenen kullanıcının avatarını gösterme, gelecekbilimde.net adresinden haber çekme, random anime sözü atma, ufak tefek selamlaşmalar :D
 ###### 15 Ekim:

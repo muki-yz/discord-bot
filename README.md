@@ -2,12 +2,18 @@
 # V Fror Muki
 Kişisel amaçlarım ve eğlence için oluşturduğum discord botu.
 ### Komutlar:
-###### Vfor    
-###### avatar  
-###### gbhaber 
-###### quote   
-###### temizle 
-###### help
+
+  Vfor    >>"V for Muki!"
+  avatar  >>returns the avatar of mentioned user.
+  dolar   >>
+  face    
+  gbhaber 
+  help    
+  mana    
+  quote   
+  redd   >> geliştirilmekte
+  temizle 
+  test    >>>geliştirilmekte
 #### Kütüphaneler:
 Discord, Request, Random, Beautifulsoup,Praw
 ###### 28 Ekim:
